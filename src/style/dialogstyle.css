@@ -1,0 +1,36 @@
+
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding:10px 10px;
+    background-color:lightgrey;
+    font-size: 15px;
+}
+.header>p{
+    font-weight: bold;
+}
+
+.input{
+    margin: 0 10px;
+    
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.footer>button{
+    background-color: blue;
+    width: 80px;
+    color:white;
+    border-radius: 18px;
+    padding: 5px;
+    border: 1px solid white;
+    font-weight: bold;
+
+}
+
+.deleteIcon{
+    cursor: pointer;
+}

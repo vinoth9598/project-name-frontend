@@ -1,0 +1,35 @@
+
+.inputBox{
+    background-color:lightgrey;
+    opacity: 60%;
+    margin-left: 30px;
+    border-radius: 10px;
+    min-width: 690px;
+    max-width: 720px;
+    height:40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:0px 5px ;
+    
+
+}
+
+.input{
+    width:100%;
+    padding:1px 10px;
+    
+}
+
+.headericon{
+    width:100%;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    
+    
+}
+
+.headericon>svg{
+    margin-left: 20px;
+}
