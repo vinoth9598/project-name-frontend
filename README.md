@@ -11,10 +11,9 @@ Currently, two official plugins are available:
 GMAIL CLONE FRONTEND 
   - This app uses to create applications are react js, html , css , Bootrsrap, MUI- ( material ui tools), and packages react, react-router-dom, and mui-icons.
   - 
-    frontend -github-link - https://github.com/vinoth9598/project-name-frontend.git
     Frontend link - https://project-gmail.netlify.app/emails/inbox
 
-    Backend-github-link -
+    Backend-github-link - https://github.com/vinoth9598/project_name_backend.git
     Backend-link -  https://gmail-clone-8pm9.onrender.com
 
 
